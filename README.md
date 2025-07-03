@@ -10,3 +10,5 @@
   * Update selector domains
 * 2025-05-07 -- 1.0.8
   * Update main entry point and selector classes in module
+* 2025-07-04 -- 1.0.9
+  * Update selector main data
