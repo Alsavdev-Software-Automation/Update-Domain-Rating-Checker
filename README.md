@@ -12,3 +12,5 @@
   * Update main entry point and selector classes in module
 * 2025-07-04 -- 1.0.9
   * Update selector main data
+* 2025-08-12 -- 1.1.1
+  * Inject Patcher Trunstile manual
