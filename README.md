@@ -14,3 +14,6 @@
   * Update selector main data
 * 2025-08-12 -- 1.1.1
   * Inject Patcher Trunstile manual
+* 2025-08-20 -- 1.1.2
+  * Swap selector
+
