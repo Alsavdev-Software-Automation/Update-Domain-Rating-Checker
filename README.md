@@ -17,5 +17,5 @@
 * 2025-08-20 -- 1.1.2
   * Swap selector
 * 2025-10-31-- 1.1.3
-  * create anticipation failed to fetch
-  * disable all interaction to chrome
+  * Create anticipation failed to fetch
+  * Disable all interaction to chrome
