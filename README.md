@@ -16,6 +16,8 @@
   * Inject Patcher Trunstile manual
 * 2025-08-20 -- 1.1.2
   * Swap selector
-* 2025-10-31-- 1.1.3
+* 2025-10-31 -- 1.1.3
   * Create anticipation failed to fetch
   * Disable all interaction to chrome
+* 2025-11-18 -- 1.1.6
+  * Update selector each value
