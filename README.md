@@ -21,3 +21,8 @@
   * Disable all interaction to chrome
 * 2025-11-18 -- 1.1.6
   * Update selector each value
+* 2025-12-28 -- 1.2.3
+  * Refactor flow process
+  * Implement Worker
+  * Fresh UI
+  * UI Friendly
