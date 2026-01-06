@@ -29,5 +29,7 @@
 * 2025-12-30 -- 1.2.5
   * Upgrade dep
   * Rename default name export file
-* 2026-1-05 -- 1.2.6
+* 2026-01-05 -- 1.2.6
   * Refactor concurrency handling in scraper
+* 2026-01-06 -- 1.2.7
+  * Fix some bugs and unused 
