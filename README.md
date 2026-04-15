@@ -33,3 +33,5 @@
   * Refactor concurrency handling in scraper
 * 2026-01-06 -- 1.2.7
   * Fix some bugs and unused 
+* 2026-04-16 -- 1.2.8
+  * New Feature on UI (search,bulk delete,trim duplicate) 
