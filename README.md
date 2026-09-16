@@ -37,3 +37,5 @@
   * New Feature on UI (search,bulk delete,trim duplicate)
 * 2026-08-11 -- 1.2.9
   * Block popup
+* 2026-09-16 -- 1.3.0
+  * Update selector getData
