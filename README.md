@@ -39,3 +39,5 @@
   * Block popup
 * 2026-09-16 -- 1.3.0
   * Update selector getData
+* 2026-10-05 -- 1.3.1
+  * Update handle selector btn submit action getData
